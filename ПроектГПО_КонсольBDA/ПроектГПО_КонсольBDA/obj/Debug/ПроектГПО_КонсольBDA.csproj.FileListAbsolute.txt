@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\ПроектГПО_КонсольBDA\ПроектГПО_КонсольBDA\bin\Debug\ПроектГПО_КонсольBDA.exe.config
+C:\Users\User\documents\visual studio 2013\Projects\ПроектГПО_КонсольBDA\ПроектГПО_КонсольBDA\bin\Debug\ПроектГПО_КонсольBDA.exe
+C:\Users\User\documents\visual studio 2013\Projects\ПроектГПО_КонсольBDA\ПроектГПО_КонсольBDA\bin\Debug\ПроектГПО_КонсольBDA.pdb
+C:\Users\User\documents\visual studio 2013\Projects\ПроектГПО_КонсольBDA\ПроектГПО_КонсольBDA\obj\Debug\ПроектГПО_КонсольBDA.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2013\Projects\ПроектГПО_КонсольBDA\ПроектГПО_КонсольBDA\obj\Debug\ПроектГПО_КонсольBDA.exe
+C:\Users\User\documents\visual studio 2013\Projects\ПроектГПО_КонсольBDA\ПроектГПО_КонсольBDA\obj\Debug\ПроектГПО_КонсольBDA.pdb
